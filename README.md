@@ -1,0 +1,2 @@
+# Shopper-Spectrum-Customer-Segmentation-Product-Recommendation-System
+Shopper Spectrum analyzes online retail transaction data to understand customer purchasing behavior. Using EDA, RFM analysis, and K-Means clustering, it segments customers by value and behavior, and delivers personalized product recommendations through similarity-based techniques to improve personalization and business insight.
